@@ -1,4 +1,6 @@
 # Olá, eu sou o Will Ferreira!
+<img src="https://camo.githubusercontent.com/f308d43d1a164da254b9afe7e7cdac0b87447579b655d43a6d1208c1071a4447/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6a6573736963616d65646569726f73703f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" alt="GitHub followers" data-canonical-src="https://img.shields.io/github/followers/E-troll?label=Follow&amp;style=social" style="max-width: 100%;">
+
  <p align="left">
 Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cotidiano através da programação. Estou apenas começando uma longa jornada em busca de conhecimento e habilidades no vasto mundo da tecnologia.
   </p>
