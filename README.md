@@ -1,8 +1,8 @@
 # Olá, eu sou o Will !
 
-<img src="https://placehold.co/200x100" width="200px" align="right" >
+<img src="https://ibb.co/DM9rxBy/200x100" width="200px" align="right" >
   <p align="left">
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cotidiano através da programação. Estou apenas começando uma longa jornada em busca de conhecimento e habilidades no vasto mundo da tecnologia.
   </p>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@williamsferreira-dev)
