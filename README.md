@@ -2,7 +2,7 @@
  <p align="left">
 Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cotidiano através da programação. Estou apenas começando uma longa jornada em busca de conhecimento e habilidades no vasto mundo da tecnologia.
   </p>
-
+<img src="https://i.ibb.co/sFQPDKj/20201231-220127.jpg" width="150px" align="right" >
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@williamsferreira-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/will_rferreira/)
@@ -23,7 +23,7 @@ Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cot
 <img heinht="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-troll&theme=blue-green"/>
 </div>
 
-<img src="https://i.ibb.co/sFQPDKj/20201231-220127.jpg" width="150px" align="right" >
+
  
 
 
