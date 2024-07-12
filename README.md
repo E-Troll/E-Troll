@@ -1,6 +1,6 @@
 # Olá, eu sou o Will Ferreira!
 
-<img src="https://i.ibb.co/sFQPDKj/20201231-220127.jpg" width="200px" align="right" >
+<img src="https://i.ibb.co/sFQPDKj/20201231-220127.jpg" width="150px" align="right" >
   <p align="left">
 Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cotidiano através da programação. Estou apenas começando uma longa jornada em busca de conhecimento e habilidades no vasto mundo da tecnologia.
   </p>
