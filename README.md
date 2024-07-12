@@ -17,5 +17,8 @@ Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cot
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 ![Will GitHub stats](https://github-readme-stats.vercel.app/api?username=E-Troll&show_icons=true&theme=radical)
