@@ -23,5 +23,5 @@ Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cot
 
 
 ![Will GitHub stats](https://github-readme-stats.vercel.app/api?username=E-troll&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia)
-![Will GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={E-troll}&theme=blue-green)
+![Will GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=E-troll&theme=blue-green)
 
