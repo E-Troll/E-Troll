@@ -22,5 +22,5 @@ Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cot
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-![Will GitHub stats](https://github-readme-stats.vercel.app/api?username=E-Troll&show_icons=true&theme=radical)
-<img src="https://camo.githubusercontent.com/096ff0c48c6da0ef603755bd47aacab21bd98b6e548da070492436599009ad21/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a6573736963616d65646569726f7370267468656d653d746f6b796f6e6967687426686964655f626f726465723d7472756526637573746f6d5f7469746c653d4c696e67756167656e73253230255072696e636970616973" alt="Linguagens Principais" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-Troll&amp;theme=tokyonight&amp;hide_border=true&amp;custom_title=Linguagens%20%Principais" style="max-width: 90%;">
+![Will GitHub stats](https://github-readme-stats.vercel.app/api?username=E-troll&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia)
+
