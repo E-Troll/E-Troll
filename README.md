@@ -1,6 +1,6 @@
 # Olá, eu sou o Will !
 
-<img src="https://ibb.co/DM9rxBy/200x100" width="200px" align="right" >
+<img src="https://ibb.co/DM9rxBy" width="200px" align="right" >
   <p align="left">
 Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cotidiano através da programação. Estou apenas começando uma longa jornada em busca de conhecimento e habilidades no vasto mundo da tecnologia.
   </p>
