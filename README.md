@@ -23,10 +23,9 @@ Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cot
 
 
 <div>
-<a href="https://beacons.ai/E-troll">
+<a href="https://beacons.ai/Will_Ferreira">
 <img heinht="180cm" src="https://github-readme-stats.vercel.app/api?username=E-troll&theme=blue-green"/>
 <img heinht="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-troll&theme=blue-green"/>
-<img heinht="80cm" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHB0dGp0eGF6bHV6ZG9tYnFlNHZubnRoMXc0d3lxM2tvcm4ybTl2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/E-troll/E-trolloutput/github-contribution-grid-snake-dark.svg">
