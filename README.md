@@ -22,6 +22,10 @@ Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cot
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-![Will GitHub stats](https://github-readme-stats.vercel.app/api?username=E-troll&theme=blue-green)
-![Will GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=E-troll&theme=blue-green)
+<div>
+<a href="https://beacons.ai/E-troll">
+<img heinht=180cm" src"https://github-readme-stats.vercel.app/api?username=E-troll&theme=blue-green"/>
+<img heinht=180cm" src"https://github-readme-stats.vercel.app/api/top-langs/?username=E-troll&theme=blue-green"/>
+</div>
+
 
