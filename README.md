@@ -39,7 +39,6 @@ Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cot
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/375162aaf899688c93a096dc515fb74ecf3463a8aa5431f25cfd4e97c72dcc72/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a6573736963616d65646569726f737026636f6c6f723d303030303030"><img src="https://camo.githubusercontent.com/375162aaf899688c93a096dc515fb74ecf3463a8aa5431f25cfd4e97c72dcc72/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a6573736963616d65646569726f737026636f6c6f723d303030303030" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=jessicamedeirosp&amp;color=000000" style="max-width: 100%;"></a>
 
 
-<img src="https://camo.githubusercontent.com/375162aaf899688c93a096dc515fb74ecf3463a8aa5431f25cfd4e97c72dcc72/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a6573736963616d65646569726f737026636f6c6f723d303030303030" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=jessicamedeirosp&amp;color=000000" style="max-width: 100%;">
 
 
 
