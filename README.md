@@ -4,7 +4,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Oi!+👋;+Sou+Will+Ferreira;+Bem-vindos+ao+meu+GitHub;" />
 </h1>
-<h3>💻 Eu sou um desenvolvedor Web [Front-End | Back-End | Fullstack]</h3>
+<h2>💻Desenvolvedor Web [Front-End | Back-End | Fullstack]</h2>
  <p align="left">
 Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cotidiano através da programação. Estou apenas começando uma longa jornada em busca de conhecimento e habilidades no vasto mundo da tecnologia.
   </p>
