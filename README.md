@@ -6,7 +6,7 @@
 </h1>
 <h2>💻Desenvolvedor Web [Front-End | Back-End | Fullstack]</h2>
  <p align="left">
-Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cotidiano através da programação. Estou apenas começando uma longa jornada em busca de conhecimento e habilidades no vasto mundo da tecnologia.
+<h2>Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cotidiano através da programação. Estou apenas começando uma longa jornada em busca de conhecimento e habilidades no vasto mundo da tecnologia.</h2>
   </p>
 
 ### Sobre mim
