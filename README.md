@@ -21,7 +21,12 @@ Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cot
 
 📚 Lendo: [As 48 Leis do Poder]
 
-### Eu já trabalhei com... Manutençao de micro, Promoção de vendas, Setor de Produção em Datacenter, automatização de Jobs🔧
+### Entre em contato comigo! 📭
+
+
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@williamsferreira-dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/will_rferreira/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williams-ferreira-dev/)
 
 
 **Tecnologias e Ferramentas**
@@ -68,12 +73,7 @@ Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cot
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=E-troll&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### Entre em contato comigo! 📭
 
-
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@williamsferreira-dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/will_rferreira/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williams-ferreira-dev/)
 
 
 
