@@ -70,7 +70,7 @@ Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cot
 
 ### Entre em contato comigo! 📭
 
-<a href="https://beacons.ai/Will_Ferreira">
+
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@williamsferreira-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/will_rferreira/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williams-ferreira-dev/)
