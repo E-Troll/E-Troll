@@ -13,14 +13,17 @@ Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cot
 
 🎓 Eu estudo [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) ] [ [Cubos Academy](https://cubos.academy/) | Estacio de Sá | Análise e desemvolvimentos de sistemas]
 
-👩‍💻 Atualmente eu trabalho como [Analista de redes ] @ [Softcomp Conectividade]
-
-🔎 Também sou curioso sobre [Mecanica Automotiva, Analise de dados, e Aviação]
-
-✒️ Eu gosto de no meu tempo livre [Viajar longas distancias dirigindo];
+👩‍💻 Atualmente eu trabalho como [Analista de redes ] [Softcomp Conectividade]
 
 📚 Lendo: [As 48 Leis do Poder]
 
+
+### GitHub Stats ⚡
+<div>
+<a href="https://github.com/E-troll">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-troll&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=E-troll&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 ### Entre em contato comigo! 📭
 
 
@@ -66,12 +69,6 @@ Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cot
 
 
 
-### GitHub Stats ⚡
-<div>
-<a href="https://github.com/E-troll">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-troll&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=E-troll&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 
 
