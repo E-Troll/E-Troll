@@ -58,7 +58,7 @@ Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cot
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=E-troll&theme=juicyfresh)](https://github.com/FrancieliLim4/github-profile-trophy)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=E-troll&bg_color=00000000&theme=calm_pink&rank_icon=github)](https://github.com/Etroll) 
+(https://github.com/Etroll) 
 <img src="https://github.com/E-troll/E-troll/assets/171762351/c95eac84-ed6c-4f4f-98ae-3f0f08342772" width="200px" align="right" >
   <p align="left">
 
