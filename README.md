@@ -59,6 +59,8 @@ Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cot
 [![trophy](https://github-profile-trophy.vercel.app/?username=E-troll&theme=juicyfresh)](https://github.com/E-troll/github-profile-trophy)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=E-troll&theme=juicyfresh)](https://github.com/E-troll/github-profile-trophy) style="display: inline-block; margin-right: 10px;"
+
 
 
 
