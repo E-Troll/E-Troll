@@ -9,8 +9,9 @@
 <h2>💻Desenvolvedor Web [Front-End | Back-End | Fullstack]</h2>
  <p align="left">
 Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cotidiano através da programação. Estou apenas começando uma longa jornada em busca de conhecimento e habilidades no vasto mundo da tecnologia.
-  </p>
 <img src="https://imgbox.com/XwHzPDmv" width="200px" align="right" >
+  </p>
+
 ### Sobre mim
 
 🎓 Estudando [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) ] [ [Cubos Academy](https://cubos.academy/) | Estacio de Sá | Análise e desemvolvimentos de sistemas]
