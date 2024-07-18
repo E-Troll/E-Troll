@@ -21,7 +21,7 @@ Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cot
           [Mais esperto que o diabo]
 
 ### GitHub Stats ⚡
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?E-troll=anuraghazra)](https://github.com/E-troll/github-readme-stats)
+
 
 <div>
 <a href="https://github.com/E-troll">
