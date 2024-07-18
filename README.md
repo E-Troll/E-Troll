@@ -2,8 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=E-troll&color=000000)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=E-troll&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/E-troll?label=Follow&style=social)
 
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Oi!+👋;+Sou+Will+Ferreira;+Bem-vindos+ao+meu+GitHub;" />
 </h1>
@@ -28,7 +26,6 @@ Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cot
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-troll&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=E-troll&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
     
 **Contato**
 
@@ -60,4 +57,4 @@ Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cot
 ![DDS Cubos Academy](https://img.shields.io/badge/-DDS%20Cubos%20Academy-19272E?style=for-the-badge&?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEQSURBVHgBjZLNTcNAEIXfrJMoPSAkpwNTAaYCSAfugD0GThzgjOiADhAdhApwB1l+JK6cI3aHGWstbeKNnJFWtsffm3myHyDFzFbOhsfrXU6DKGqiqMZIKRNZizhlIPrGbfWFVdf/xM2VPqfiidxXRLQezqdHg8L9YOUCzEsAXXRdYUVYTnKWBC4DUCvMMDUB7hT3O8NNTugFRoQJdB3gX/eZ7MYejpurP8yXA0a/sfimXZvFZovpYoqtlSHnJ3g4S0WqMRmbVi7tAndOXl568FPOlck0Olh/BYNKj9l6VJjCYrFh8JtuPiT86ANAmP96hKXCjOIZmNl9QWTbNKc1RiqJXNM3NK/tESF3XU6l/gHnFvELsPPX8gAAAABJRU5ErkJggg==&link=https://cubos.academy/)
 ![DBE Cubos Academy](https://img.shields.io/badge/-DBE%20Cubos%20Academy-19272E?style=for-the-badge&?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEQSURBVHgBjZLNTcNAEIXfrJMoPSAkpwNTAaYCSAfugD0GThzgjOiADhAdhApwB1l+JK6cI3aHGWstbeKNnJFWtsffm3myHyDFzFbOhsfrXU6DKGqiqMZIKRNZizhlIPrGbfWFVdf/xM2VPqfiidxXRLQezqdHg8L9YOUCzEsAXXRdYUVYTnKWBC4DUCvMMDUB7hT3O8NNTugFRoQJdB3gX/eZ7MYejpurP8yXA0a/sfimXZvFZovpYoqtlSHnJ3g4S0WqMRmbVi7tAndOXl568FPOlck0Olh/BYNKj9l6VJjCYrFh8JtuPiT86ANAmP96hKXCjOIZmNl9QWTbNKc1RiqJXNM3NK/tESF3XU6l/gHnFvELsPPX8gAAAABJRU5ErkJggg==&link=https://cubos.academy/)
 
-![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=E-troll&theme=onedark&no-frame=true&no-bg=true&margin-w=4) align="right"
+![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=E-troll&theme=onedark&no-frame=true&no-bg=true&margin-w=4) 
