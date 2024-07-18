@@ -10,7 +10,7 @@
  <p align="left">
 Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cotidiano através da programação. Estou apenas começando uma longa jornada em busca de conhecimento e habilidades no vasto mundo da tecnologia.
   </p>
-<img src="https://github.com/E-troll/E-troll/assets/171762351/8d868dbd-2280-4053-bb71-1876fe60fcd2" width="230px" align="right" >
+<img src="https://github.com/E-troll/E-troll" width="230px" align="right" >
 
 ### Sobre mim
 
