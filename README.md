@@ -10,7 +10,7 @@
  <p align="left">
 Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cotidiano através da programação. Estou apenas começando uma longa jornada em busca de conhecimento e habilidades no vasto mundo da tecnologia.
   </p>
-<img src="https://encr.pw/ofJKp/200x150" width="200px" align="right" >
+<img src="https://encr.pw/ofJKp" width="200px" align="right" >
 ### Sobre mim
 
 🎓 Estudando [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) ] [ [Cubos Academy](https://cubos.academy/) | Estacio de Sá | Análise e desemvolvimentos de sistemas]
