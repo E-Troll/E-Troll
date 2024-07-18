@@ -4,6 +4,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Oi!+👋;+Sou+Will+Ferreira;+Bem-vindos+ao+meu+GitHub;" />
 </h1>
+![](https://komarev.com/ghpvc/?username=E-troll&color=000000)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=E-troll&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/E-troll?label=Follow&style=social)
 <h2>💻Desenvolvedor Web [Front-End | Back-End | Fullstack]</h2>
  <p align="left">
 Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cotidiano através da programação. Estou apenas começando uma longa jornada em busca de conhecimento e habilidades no vasto mundo da tecnologia.
