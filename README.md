@@ -14,7 +14,7 @@ Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cot
 
 ### Sobre mim
 
-🎓 Estudando [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) ] [ [Cubos Academy](https://cubos.academy/) | Estacio de Sá | Análise e desemvolvimentos de sistemas]
+🎓 Aprimorando conhecimentos [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) ] [ [Cubos Academy](https://cubos.academy/) | Estacio de Sá | Análise e desemvolvimentos de sistemas]
 
 👩‍💻 Atualmente trabalho como [Analista de redes ] [Softcomp Conectividade]
 
@@ -46,7 +46,6 @@ Apaixonado por tecnologia e motivado pela vontade de solucionar problemas do cot
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Eu estou estudando... 🧩
